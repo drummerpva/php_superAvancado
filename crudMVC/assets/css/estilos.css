@@ -1,0 +1,26 @@
+body{
+    background: #EEE;
+}
+header, section,footer{
+    width: 800px;
+    background: #FFF;
+    margin:auto;
+}
+header{
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+.aviso{
+    padding: 10px;
+    background: #F00;
+    border: 2px solid #FFF;
+    margin: 10px;
+    color: #FFF;
+        
+}
